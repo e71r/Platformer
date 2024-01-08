@@ -1,0 +1,17 @@
+{
+    "enemies": [
+        {
+            "name": "bear",
+            "start_pos": [11,10],
+            "final_pos": [22, 16]
+        },
+        {
+            "name": "daikon",
+            "start_pos": [10, 16],
+            "final_pos": [26,16]
+        }
+
+        
+
+    ]
+}
